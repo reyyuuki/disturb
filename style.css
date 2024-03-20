@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height:400px;
+    width:500px;
+    border:2px solid;
+    gap:40px;
+}
+input{
+    padding: 15px 35px;
+    border-radius: 15px;
+}
